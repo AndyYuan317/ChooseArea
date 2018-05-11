@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Choose</string>
+    <string name="app_activity_address_edit">编辑地址</string>
+    <string name="word_back">返回</string>
+    <string name="word_save">保存</string>
+    <string name="word_province_city_block">省份、城市、县区</string>
+    <string name="word_address_detail">详细地址</string>
+
+</resources>
